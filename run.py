@@ -10,10 +10,10 @@ from skimage import transform
 #Dataset URL: https://www.kaggle.com/puneet6060/intel-image-classification
 
 #Training params
-epochs = 5
+epochs = 4
 
 #Load images batch size
-batch_size = 24
+batch_size = 32
 
 #Dataset PATH
 datapath = './dataset'
